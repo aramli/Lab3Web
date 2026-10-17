@@ -68,4 +68,4 @@ Membuat file `.css` terpisah lalu dipanggil dengan `<link>` di `<head>`. ini leb
 <br>
 <img src="https://github.com/aramli/Lab3Web/raw/main/Praktikum3/5.png" width="300"/><br>
 
-[![Lihat Hasil Praktikum](https://img.shields.io/badge/Go-Redirect-blue)](https://aramli.github.io/Lab3Web/index.html) → klik untuk lihat hasil praktikum
+[![Lihat Hasil Praktikum](https://img.shields.io/badge/Go-Redirect-blue)](https://aramli.github.io/Lab3Web/lab2_css_dasar.html) → klik untuk lihat hasil praktikum
